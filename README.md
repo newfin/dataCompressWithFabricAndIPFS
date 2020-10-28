@@ -1,6 +1,6 @@
 一个Fabric+IPFS数据上链的Demo
 
-完整方案文档：
+完整方案文档：[基于Fabric+IPFS大规模数据上链方案](https://www.wanghaoyi.com/fabric-ipfs-technical-solution.html)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190807150545715.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0pvbmFzRXJvc29uQXRzZWE=,size_16,color_FFFFFF,t_70)
 
