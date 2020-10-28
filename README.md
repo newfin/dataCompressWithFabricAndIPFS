@@ -2,7 +2,7 @@
 
 完整方案文档：[基于Fabric+IPFS大规模数据上链方案](https://www.wanghaoyi.com/fabric-ipfs-technical-solution.html)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190807150545715.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0pvbmFzRXJvc29uQXRzZWE=,size_16,color_FFFFFF,t_70)
+<img src="./img/arch.jpg" alt="在这里插入图片描述" style="zoom:45%;" />
 
   **Fabric简介、适用场景**：Hyperledger Fabric的出现是对传统区块链模型的一种革新，在某种程度上允许创建授权和非授权的区块链，Hyperledger还通过提供一个针对身份识别，可审计、隐私安全和健壮的模型，使得缩短计算周期、提高规模效率和响应各个行业的应用需求成为可能。
   **IPFS简介、适用场景**：分布式存储。
